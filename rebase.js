@@ -7,5 +7,9 @@ var 6 = '6';
 
 var 7 = 'aftermath'; 
 var 8 = 'common ancestor with branch-c'; 
+<<<<<<< HEAD
 var 9 = 'master'; 
 var 10 = '10'; 
+=======
+var 9 = 'branch-c'; 
+>>>>>>> 05d06bb... branch-c
