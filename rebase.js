@@ -6,3 +6,6 @@ var 5 = 'branch-b master';
 var 6 = '6'; 
 
 var 7 = 'aftermath'; 
+var 8 = 'common ancestor with branch-c'; 
+var 9 = 'master'; 
+var 10 = '10'; 
