@@ -4,3 +4,5 @@ var 3 = 'branch-a master';
 var 4 = 'common ancestor with branch-b'; 
 var 5 = 'branch-b master'; 
 var 6 = '6'; 
+
+var 7 = 'aftermath'; 
